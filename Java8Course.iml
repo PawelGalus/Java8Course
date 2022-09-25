@@ -22,5 +22,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" exported="" name="slf4j.api" level="project" />
+    <orderEntry type="library" exported="" name="ch.qos.logback.classic" level="project" />
   </component>
 </module>
