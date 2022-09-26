@@ -2,39 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39ec0d76-5e50-43ef-aed6-16bf6f8ddb31" name="Changes" comment="after lesson 19">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ch_qos_logback_classic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Asset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/CarSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/CarState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Loggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Mercedes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Porsche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/car/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/lesson10/LoggingLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/lesson3/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Loggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/zoo/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/car/CarSelectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/car/CarServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/car/PorscheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/zoo/ZooTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/Manufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/Vin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/DemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/lesson2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pawelgalus/javacourse/lesson2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/lesson2/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pawelgalus/javacourse/lesson2/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Paweł Galus/IdeaProjects/Java8Course",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Paweł Galus/IdeaProjects/Java8Course&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.pawelgalus.javacourse" />
@@ -101,90 +77,101 @@
       <recent name="com.pawelgalus.javacourse" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PorscheTest.shouldClonePorsche">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.lang.Test" />
+  <component name="RunManager" selected="JUnit.ArrayListTest.shouldDemonstrateArrayList">
+    <configuration name="ArrayListTest.shouldDemonstrateArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java8Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.lang.*" />
+          <option name="PATTERN" value="com.pawelgalus.javacourse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in Java8Course" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java8Course" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PorscheTest.shouldClonePorsche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java8Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pawelgalus.javacourse.car.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse.car" />
-      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.car.PorscheTest" />
-      <option name="METHOD_NAME" value="shouldClonePorsche" />
+      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.ArrayListTest" />
+      <option name="METHOD_NAME" value="shouldDemonstrateArrayList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PorscheTest.shouldCloneStringArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CarTest.primitivesShouldBeEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java8Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pawelgalus.javacourse.car.*" />
+          <option name="PATTERN" value="com.pawelgalus.javacourse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse.car" />
-      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.car.PorscheTest" />
-      <option name="METHOD_NAME" value="shouldCloneStringArray" />
+      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.CarTest" />
+      <option name="METHOD_NAME" value="primitivesShouldBeEqual" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZooTest.shouldFeedAllAnimals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CarTest.stringShouldBeEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java8Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pawelgalus.javacourse.zoo.*" />
+          <option name="PATTERN" value="com.pawelgalus.javacourse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse.zoo" />
-      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.zoo.ZooTest" />
-      <option name="METHOD_NAME" value="shouldFeedAllAnimals" />
+      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.CarTest" />
+      <option name="METHOD_NAME" value="stringShouldBeEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.shouldDemonstrateBase16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pawelgalus.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.DemoTest" />
+      <option name="METHOD_NAME" value="shouldDemonstrateBase16" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.shouldDemonstrateBase8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pawelgalus.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pawelgalus.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.pawelgalus.javacourse.DemoTest" />
+      <option name="METHOD_NAME" value="shouldDemonstrateBase8" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="JUnit.All in Java8Course" />
-      <item itemvalue="JUnit.PorscheTest.shouldClonePorsche" />
-      <item itemvalue="JUnit.PorscheTest.shouldCloneStringArray" />
-      <item itemvalue="JUnit.ZooTest.shouldFeedAllAnimals" />
+      <item itemvalue="JUnit.ArrayListTest.shouldDemonstrateArrayList" />
+      <item itemvalue="JUnit.CarTest.primitivesShouldBeEqual" />
+      <item itemvalue="JUnit.CarTest.stringShouldBeEqual" />
+      <item itemvalue="JUnit.DemoTest.shouldDemonstrateBase16" />
+      <item itemvalue="JUnit.DemoTest.shouldDemonstrateBase8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PorscheTest.shouldClonePorsche" />
-        <item itemvalue="JUnit.PorscheTest.shouldCloneStringArray" />
-        <item itemvalue="JUnit.All in Java8Course" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="JUnit.ZooTest.shouldFeedAllAnimals" />
+        <item itemvalue="JUnit.ArrayListTest.shouldDemonstrateArrayList" />
+        <item itemvalue="JUnit.CarTest.stringShouldBeEqual" />
+        <item itemvalue="JUnit.CarTest.primitivesShouldBeEqual" />
+        <item itemvalue="JUnit.DemoTest.shouldDemonstrateBase16" />
+        <item itemvalue="JUnit.DemoTest.shouldDemonstrateBase8" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664096698814</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="after lesson 19">
+      <created>1664131123349</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664131123349</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
